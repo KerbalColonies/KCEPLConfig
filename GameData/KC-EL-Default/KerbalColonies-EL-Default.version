@@ -1,8 +1,8 @@
 {
   "NAME": "KerbalColonies-ExtraplanetaryLaunchpadsConfig",
   "VERSION": "v1.1.0",
-  "URL": "https://raw.githubusercontent.com/AMPW-german/KerbalColonies-ExtraplanetaryLaunchpadsConfig/refs/heads/main/GameData/KerbalColonies/FacilityConfigs/EL-Default/KerbalColonies-EL-Default.version",
-  "DOWNLOAD": "https://github.com/AMPW-german/KerbalColonies-ExtraplanetaryLaunchpadsConfig/releases/latest",
+  "URL": "https://raw.githubusercontent.com/KerbalColonies/KCEPLConfig/refs/heads/main/GameData/KC-EL-Default/KerbalColonies-EL-Default.version",
+  "DOWNLOAD": "https://github.com/KerbalColonies/KCEPLConfig/releases/latest",
   "KSP_VERSION": "1.12.5",
   "KSP_VERSION_MIN": "1.8",
   "KSP_VERSION_MAX": "1.12.5"
